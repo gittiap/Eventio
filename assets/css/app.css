@@ -53,6 +53,18 @@ textarea {
 }
 
 
+/* Messages */
+#message p {
+    border-radius: 4px;
+    color: white;
+    margin: 0 0 3em;
+    padding: 0.5em 1em;
+    text-align: center;
+}
+
+
+
+
 /* Navigation */
 nav {
     background-color: #3498db;
@@ -76,6 +88,10 @@ nav .title {
 }
 .menu a:hover {
     background-color: #2980b9;
+}
+
+.menu a:hover {
+    font-size: 2em;
 }
 
 
